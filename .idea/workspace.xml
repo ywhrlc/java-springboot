@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5755ba48-bb98-4dc0-bf33-075fe7d8a2b1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hiI69GIO7s8DeNCSSI1zxz7L1L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Project.color": "083a40",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/code/SrpingBoot/SpringBoot_JSP/src/main/webapp/image",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "098067884611302e5cb7752ffdafd0da",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\SrpingBoot\SpringBoot_JSP\src\main\webapp\image" />
+      <recent name="D:\code\SrpingBoot\SpringBoot_JSP\src\main\webapp\user" />
+      <recent name="D:\code\SrpingBoot\SpringBoot_JSP\src\main\webapp\user\js" />
+      <recent name="D:\code\SrpingBoot\SpringBoot_JSP\src\main\webapp\admin" />
+      <recent name="D:\code\SrpingBoot\SpringBoot_JSP\src\main\webapp\WEB-INF\admin\static\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\SrpingBoot\SpringBoot_JSP\src\main\webapp\image" />
+      <recent name="D:\code\SrpingBoot\SpringBoot_JSP\src\main\webapp\user\assets\images" />
+      <recent name="D:\code\SrpingBoot\SpringBoot_JSP\src\main\webapp" />
+      <recent name="C:\Users\JZX\Desktop\SprinBoot_GuanWang\SpringBoot_JSP\src\main\webapp\jsp" />
+      <recent name="C:\Users\JZX\Desktop\SprinBoot_GuanWang\SpringBoot_JSP\src\main\webapp\WEN-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dfbz.springboot_jsp.controller" />
+      <recent name="com.dfbz.springboot_jsp.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootJspApplication">
+    <configuration name="SpringBootJspApplicationTests.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot_JSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dfbz.springboot_jsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dfbz.springboot_jsp" />
+      <option name="MAIN_CLASS_NAME" value="com.dfbz.springboot_jsp.SpringBootJspApplicationTests" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot_JSP" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dfbz.springboot_jsp.SpringBootJspApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dfbz.springboot_jsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootJspApplication" />
+        <item itemvalue="JUnit.SpringBootJspApplicationTests.selectAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5755ba48-bb98-4dc0-bf33-075fe7d8a2b1" name="Changes" comment="" />
+      <created>1718070300235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718070300235</updated>
+      <workItem from="1718070302359" duration="5217000" />
+      <workItem from="1718092086008" duration="3675000" />
+      <workItem from="1718238238054" duration="8958000" />
+      <workItem from="1718326606033" duration="9515000" />
+      <workItem from="1718584491588" duration="14833000" />
+      <workItem from="1718670317719" duration="2765000" />
+      <workItem from="1718673876454" duration="4391000" />
+      <workItem from="1718690891346" duration="20002000" />
+      <workItem from="1718756676731" duration="32320000" />
+      <workItem from="1718929420941" duration="6540000" />
+      <workItem from="1718935975672" duration="31806000" />
+      <workItem from="1719188914271" duration="31213000" />
+      <workItem from="1719274566149" duration="35820000" />
+      <workItem from="1719361373600" duration="25466000" />
+      <workItem from="1719447776994" duration="24076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
